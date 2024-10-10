@@ -50,4 +50,4 @@ Managing Products
 
 Installation
 
-. Clone or download the repository()
+. Clone or download the repository(https://github.com/TehreemFatimaNasir/Ecommerce-store)
