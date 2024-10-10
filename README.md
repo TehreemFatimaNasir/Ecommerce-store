@@ -1,5 +1,6 @@
 # Ecommerce-store
-Overview
+Overview:
+
 A fully functional eCommerce application built using PHP, featuring user registration, login, checkout system, admin dashboard, and product management with add-to-cart functionality.
 
 Features
